@@ -50,7 +50,11 @@
         <connection>scm:git:git://github.com/confluentinc/kafka-connect-storage-cloud.git</connection>
         <developerConnection>scm:git:git@github.com:confluentinc/kafka-connect-storage-cloud.git</developerConnection>
         <url>https://github.com/confluentinc/kafka-connect-storage-cloud</url>
+<<<<<<< HEAD
         <tag>HEAD</tag>
+=======
+        <tag>v10.0.5</tag>
+>>>>>>> f6bd069 ([maven-release-plugin] prepare release v10.0.5)
     </scm>
 
     <modules>
