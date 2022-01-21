@@ -50,7 +50,11 @@
         <connection>scm:git:git://github.com/confluentinc/kafka-connect-storage-cloud.git</connection>
         <developerConnection>scm:git:git@github.com:confluentinc/kafka-connect-storage-cloud.git</developerConnection>
         <url>https://github.com/confluentinc/kafka-connect-storage-cloud</url>
+<<<<<<< HEAD
         <tag>v10.0.5</tag>
+=======
+        <tag>HEAD</tag>
+>>>>>>> 9befb99145946e0b64b53ff1299e332a23ffb1b1
     </scm>
 
     <modules>
